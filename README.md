@@ -5,8 +5,6 @@
 >  _To see a World in a Grain of Sand,_
 > _And a Heaven in a Wild Flower_
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 - Programming 5 day on and 2 day off
 - Everyday Walking outside, take some fresh air 
 - ✨Maasical  Word
@@ -29,6 +27,8 @@
     - ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
     - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+
+##### Writine ReadMe with :  https://dillinger.io/
 <!--
 **waiga/waiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
