@@ -11,7 +11,7 @@
 - Que, Sera Sera
 - Recent Publish: http://app-stop.appspot.com/ColorTime-e8d1857b4a054125967ea7a78bf287e4
 
-
+<!--
 ## 🛠 Skills ⚙️
 - Currently, Most Using and Learning:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
@@ -30,7 +30,7 @@
 
 
 ##### Writing ReadMe with :  https://dillinger.io/
-<!--
+
 **waiga/waiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
