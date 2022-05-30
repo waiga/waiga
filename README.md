@@ -1,5 +1,5 @@
 # Waiga's github. Hello World 👋
-### Have a Lovely Day!😎🌞
+### Have a Lovely Day!😎
 
 
 >  _To see a World in a Grain of Sand,_
