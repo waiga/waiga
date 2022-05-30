@@ -5,7 +5,7 @@
 >  _To see a World in a Grain of Sand,_
 > _And a Heaven in a Wild Flower_
 
-- Programming 5 day on and 2 day off
+- Start Working 22.05.17(Thu) ~ 🏃🏻‍♀️
 - Everyday Walking outside, take some fresh air 
 - ✨Maasical  Word
 - Que, Sera Sera
